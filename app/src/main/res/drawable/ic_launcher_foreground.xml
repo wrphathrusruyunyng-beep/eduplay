@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sparkles / Star of Learning -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M78,28 L80,33 L85,35 L80,37 L78,42 L76,37 L71,35 L76,33 Z" />
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M30,32 L31.5,35.5 L35,37 L31.5,38.5 L30,42 L28.5,38.5 L25,37 L28.5,35.5 Z" />
+
+    <!-- Graduation Mortarboard Top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 L78,38 L54,48 L30,38 Z" />
+    <!-- Graduation Cap Skull -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M40,43.8 L40,51 C40,55.5 46.2,59 54,59 C61.8,59 68,55.5 68,51 L68,43.8 L54,49.5 Z" />
+    <!-- Mortarboard Tassel -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M72,40.5 L75,53" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M73,53 L77,53 L76,57 L74,57 Z" />
+
+    <!-- Open Book / Learning Pages -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,62 C44,60 36,60 28,63 L28,78 C36,75 44,75 52,78 Z" />
+    <!-- Right Page -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M56,62 C64,60 72,60 80,63 L80,78 C72,75 64,75 56,78 Z" />
+    <!-- Book Spine & Shadow Base -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M52,78 C44,75 36,75 28,78 L28,81 C36,78 44,78 52,81 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M56,78 C64,75 72,75 80,78 L80,81 C72,78 64,78 56,81 Z" />
+    <!-- Spine Center -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M52.5,62 L55.5,62 L55.5,81 L52.5,81 Z" />
+
+    <!-- Light lines on left page -->
+    <path
+        android:strokeColor="#93C5FD"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M33,67 L47,65.5 M33,71 L47,69.5 M33,75 L43,73.5" />
+    <!-- Light lines on right page -->
+    <path
+        android:strokeColor="#93C5FD"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M61,65.5 L75,67 M61,69.5 L75,71 M65,73.5 L75,75" />
+</vector>

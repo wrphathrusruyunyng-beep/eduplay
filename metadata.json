@@ -1,0 +1,6 @@
+{
+  "name": "EduPlay",
+  "description": "แพลตฟอร์มสื่อการเรียนรู้อินเทอร์แอ็กทีฟ ครอบคลุมทุกระดับชั้น ปฐมวัย ประถม มัธยม อาชีวะ พร้อมสตูดิโอสร้างสื่อ AI Assist และระบบ Gamification",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
